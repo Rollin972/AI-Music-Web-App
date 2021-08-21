@@ -1,0 +1,30 @@
+.pt-1
+{
+    background-color: darkcyan;
+    color: floralwhite;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 10px;
+    border: darkslateblue 3px solid;
+}
+
+#song
+{
+    background-color: deepskyblue;
+    font-size: 30px;
+}
+
+body{
+    font-family: 'Tenali Ramakrishna', sans-serif;
+}
+
+.part_of_s
+{
+   float: right;
+   margin-top: 22px;
+}
+
+.part_of_v
+{
+   float: left;
+}
